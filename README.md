@@ -1,8 +1,8 @@
--- Hello there, my friend --
+-- Hi there, friend --
 
 Looks like you've come across my little nest of coding projects.
 
-I’m open to collaborating on projects as well as gain further knowledge with regards to gaining experience! You can connect with me via:
+You can connect with me via:
 Email | fureokao@gmail.com
 
 
